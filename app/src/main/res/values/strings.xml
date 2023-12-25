@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Compose-sample</string>
+    <string name="home">Home</string>
+    <string name="details">Details</string>
+</resources>
