@@ -2,11 +2,11 @@
 
 Compose-sample is a sample project showcasing a modern approach to Android app development utilizing the Jetpack Compose UI Framework.
 
-![Demo GIF](misc/demo_gif.gif)
+![Demo GIF](https://i.imgur.com/HMleUvA.gif)
 
 ## Screenshots
 
-![App Screenshot](misc/img.png)
+<img src="https://i.imgur.com/Fa4TaeD.jpg" width="150" height="300">
 
 This sample app demonstrates the integration of various popular Android tools and features a combination of technologies such as Jetpack Compose, Kotlin Flow, and Hilt. Employing the MVVM repository pattern, the app fetches data from a sample GitHub JSON and generates a list of movies using Jetpack Compose.
 
